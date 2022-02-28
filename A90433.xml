@@ -1,0 +1,1132 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Multum in parvo: or, Some useful sayings, in verse and prose collected by a lover of virtue and goodness in whomsoever.</title>
+            <author>Pennyman, John, 1628-1706.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 48 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90433</idno>
+            <idno type="STC">Wing P1408A</idno>
+            <idno type="STC">ESTC R230082</idno>
+            <idno type="EEBO-CITATION">99895910</idno>
+            <idno type="PROQUEST">99895910</idno>
+            <idno type="VID">153475</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90433)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153475)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2366:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Multum in parvo: or, Some useful sayings, in verse and prose collected by a lover of virtue and goodness in whomsoever.</title>
+                  <author>Pennyman, John, 1628-1706.</author>
+               </titleStmt>
+               <extent>[2], 29, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Samuel Manship at the Black Bull in Cornhill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By John Pennyman.</note>
+                  <note>Signed at end: J.P.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Maxims --  Early works to 1800.</term>
+               <term>Moral education --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Graham Hukill</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Graham Hukill</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="blank_pages">
+            <p>
+               <pb facs="tcp:153475:1" rendition="simple:additions"/>
+               <pb facs="tcp:153475:1" rendition="simple:additions"/>
+               <pb facs="tcp:153475:2" rendition="simple:additions"/>
+               <pb facs="tcp:153475:2"/>
+               <pb facs="tcp:153475:3"/>
+               <pb facs="tcp:153475:3"/>
+               <pb facs="tcp:153475:4"/>
+               <pb facs="tcp:153475:4"/>
+               <pb facs="tcp:153475:5" rendition="simple:additions"/>
+               <pb facs="tcp:153475:5"/>
+               <pb facs="tcp:153475:6" rendition="simple:additions"/>
+               <pb facs="tcp:153475:6"/>
+               <pb facs="tcp:153475:7"/>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:153475:7" rendition="simple:additions"/>
+            <p>
+               <hi>M<g ref="char:V">Ʋ</g>LT<g ref="char:V">Ʋ</g>M in PARVO:</hi> Or, Some uſeful SAYINGS, IN VERSE and PROSE, COLLECTED By a Lover of Virtue and Good<g ref="char:EOLhyphen"/>neſs in Whomſoever.</p>
+            <lg>
+               <l>The Heart of him that is upright,</l>
+               <l>In Heavenly knowledge takes delight.</l>
+            </lg>
+            <q>
+               <p>I will delight my ſelf in THY Statutes.</p>
+            </q>
+            <lg>
+               <l>If thou would'ſt true Wiſdom win,</l>
+               <l>Then thou muſt retire within.</l>
+            </lg>
+            <q>
+               <p>That which may be known of GOD is manifeſt in them,</p> 
+               <bibl>
+                  <hi>Rom. 3.19.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Samuel Manſhip</hi> at the Black Bull in <hi>Cornhill,</hi> 1687.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:153475:8"/>
+            <pb n="1" facs="tcp:153475:8"/>
+            <head>
+               <hi>M<g ref="char:V">Ʋ</g>LT<g ref="char:V">Ʋ</g>M in PARVO:</hi> Or, ſome Uſeful SAYINGS, IN VERSE and PROSE, &amp;c.</head>
+            <div type="verse_sayings">
+               <div n="1" type="saying">
+                  <lg>
+                     <l>
+                        <hi>TO work aright, O LORD, inſtruct thou me,</hi>
+                     </l>
+                     <l>
+                        <hi>That in THY Sight I may approved be:</hi>
+                     </l>
+                     <l>
+                        <hi>Then ſhall my Soul have Reſt and Peace for ever,</hi>
+                     </l>
+                     <l>
+                        <hi>In THEE, which neither Death nor Hell can ſever.</hi>
+                     </l>
+                  </lg>
+               </div>
+               <div n="2" type="saying">
+                  <lg>
+                     <l>IT matters not, how I appear to Man,</l>
+                     <l>A Witneſs in my Soul there is, that can</l>
+                     <l>This record to the FATHER bear that I</l>
+                     <l>Seek not Mans praiſe, but Immortality:</l>
+                     <l>That ſo a Crown of Reſt I may receive,</l>
+                     <l>Which Mortals have not in their Power to give.</l>
+                  </lg>
+                  <q>
+                     <hi>If I yet pleaſed Men, I ſhould not be the Servant of Chriſt.</hi>
+                  </q>
+                  <pb n="2" facs="tcp:153475:9"/>
+               </div>
+               <div n="3" type="saying">
+                  <lg>
+                     <l>THo' all the World my Actions diſcommend,</l>
+                     <l>I am at Peace, when Conſcience is my friend.</l>
+                  </lg>
+                  <q>And herein do I exerciſe my ſelf, to have alwaies a Conſcience void of offence, towards GOD and towards Man.</q>
+               </div>
+               <div n="4" type="saying">
+                  <lg>
+                     <l>THe Glories of our Birth and State</l>
+                     <l>Are Shadows, not Subſtantial things;</l>
+                     <l>There is no Armour againſt ſate,</l>
+                     <l>Death laies his Icy-hand on Kings;</l>
+                     <l>Scepter and Crown muſt tumble down,</l>
+                     <l>And in the Duſt be equal made</l>
+                     <l>With the poor crooked Sythe and Spade;</l>
+                     <l>All heads muſt come to the cold Tomb</l>
+                     <l>Only the actions of the Juſt</l>
+                     <l>Smell ſweet and bloſſom in the Duſt.</l>
+                  </lg>
+                  <q>Vivit poſt funera virtus, <hi>Virtue lives after Death.</hi>
+                  </q>
+               </div>
+               <div n="5" type="saying">
+                  <lg>
+                     <l>ALL outward Honour is a Painted fable,</l>
+                     <l>The humble Man is truly honourable;</l>
+                     <l>Of virtues all there's none more wiſht by me,</l>
+                     <l>Than that which graces all, Humility.</l>
+                  </lg>
+                  <q>The greater thou art, the more humble thy ſelf.</q>
+               </div>
+               <div n="6" type="saying">
+                  <lg>
+                     <l>HOnour thy Parents to prolong thy end,</l>
+                     <l>With them, tho' for a Truth, do not contend;</l>
+                     <l>Tho' all ſhould Truth defend, do thon loſe rather</l>
+                     <l>The Truth a while, than loſe their Loves for ever.</l>
+                  </lg>
+                  <q>Honour thy Father, and forget not the Sorrows of thy Mother, <bibl>
+                        <hi>Eccl. 7.27.</hi>
+                     </bibl>
+                  </q>
+                  <pb n="3" facs="tcp:153475:9"/>
+               </div>
+               <div n="7" type="saying">
+                  <lg>
+                     <l>AS GODS dear See d, to learn give heed,</l>
+                     <l>That when thy Head is hoary;</l>
+                     <l>Wiſdom may be a Crown to thee</l>
+                     <l>Tranſcending Earthly Glory.</l>
+                  </lg>
+                  <lg>
+                     <l>Thy Peace and Reſt, from GODS own Breaſt,</l>
+                     <l>Then Death, nor Hell, ſhall ſever:</l>
+                     <l>But thou ſhall ſee, thy Joys ſhall be</l>
+                     <l>Amen in HIM for ever.</l>
+                  </lg>
+                  <q>The Wiſe in Heart ſhall inherit Glory, but ſhame ſhall be the Promotion of Fools, <bibl>
+                        <hi>Prov. 3.35.</hi>
+                     </bibl>
+                  </q>
+               </div>
+               <div n="8" type="saying">
+                  <lg>
+                     <l>TRue virtue is a Coat of Mail,</l>
+                     <l>'Gainſt which no Weapons can prevail.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Virtus vera nobilitas.</hi>
+                     </l>
+                     <l>Virtue is true Nobility.</l>
+                  </lg>
+               </div>
+               <div n="9" type="saying">
+                  <lg>
+                     <l>TRuth oppreſt we often ſee,</l>
+                     <l>But quite ſuppreſt it cannot be.</l>
+                  </lg>
+                  <q>He left not himſelf without a Witneſs, <bibl>
+                        <hi>Acts 14.17.</hi>
+                     </bibl>
+                  </q>
+               </div>
+               <div n="10" type="saying">
+                  <lg>
+                     <l>THink that is juſt, 'tis not enough to do,</l>
+                     <l>Unleſs thy very Thoughts are upright too;</l>
+                     <l>If well thou do'ſt, and well intend,</l>
+                     <l>Thou ſhalt be Crowned in the End.</l>
+                  </lg>
+                  <q>Be thou faithful unto Death, that thou maiſt re<g ref="char:EOLhyphen"/>ceive a Crown of Life.</q>
+                  <pb n="4" facs="tcp:153475:10"/>
+               </div>
+               <div n="11" type="saying">
+                  <lg>
+                     <l>THE ſureſt Riches he ſhall gain,</l>
+                     <l>Who alwaies Faithful doth remain.</l>
+                  </lg>
+                  <q>Tutum praeſidium integritas. <hi>Honeſty is the beſt Policy.</hi>
+                  </q>
+               </div>
+               <div n="12" type="saying">
+                  <lg>
+                     <l>A Bleſſing will with him abide,</l>
+                     <l>That hath true Virtue for his Guide.</l>
+                  </lg>
+                  <q>Bleſſings are upon the Head of the Juſt, <bibl>
+                        <hi>Pro. 10.6.</hi>
+                     </bibl>
+                  </q>
+               </div>
+               <div n="13" type="saying">
+                  <lg>
+                     <l>NO Temper more Mans life doth bleſs,</l>
+                     <l>Than ſimple prudent harmleſneſs.</l>
+                  </lg>
+                  <q>Hugo Grotius, <hi>a Man of Univerſal Learning and profound Policy, ſaid,</hi> I would give all my Learning and Honour, for the plain Integrity and harmleſs Innocency of <hi>Jean Vtrick.</hi>
+                  </q>
+               </div>
+               <div n="14" type="saying">
+                  <lg>
+                     <l>ABove thy Knowledg do not riſe,</l>
+                     <l>But with Sobriety be wiſe.</l>
+                  </lg>
+                  <q>Quae ſupra nos, nihil ad nos. Thoſe things that are above us, are nothing to us.</q>
+               </div>
+               <div type="saying">
+                  <lg>
+                     <l>WHat matter is it, Man, for thee to know</l>
+                     <l>The reaſon, why the Sea doth Ebb and Flow;</l>
+                     <l>Or what courſe the variable Moon doth ſteer,</l>
+                     <l>Or how the Sun doth run throughout the year;</l>
+                     <l>It is thy Wiſdom, and would better pleaſe,</l>
+                     <l>To fear thy MAKER, than to know all theſe.</l>
+                  </lg>
+                  <q>The fear of the LORD is the inſtruction of Wiſ<g ref="char:EOLhyphen"/>dom, <bibl>
+                        <hi>Prov. 15.33.</hi>
+                     </bibl>
+                  </q>
+                  <pb n="5" facs="tcp:153475:10"/>
+               </div>
+               <div n="16" type="saying">
+                  <lg>
+                     <l>HE that Commands himſelf is more a Prince,</l>
+                     <l>Than he who Nations keeps in Awe;</l>
+                     <l>And they that yield to what their Souls convince,</l>
+                     <l>Shall never need another Law.</l>
+                  </lg>
+                  <q>The word is nigh thee, in thy Mouth, and in thy Heart, to obey it and do it. <bibl>
+                        <hi>Ro. 10.8. Deu. 30.14.</hi>
+                     </bibl>
+                  </q>
+               </div>
+               <div n="17" type="saying">
+                  <lg>
+                     <l>HE's ſtill himſelf, when company is gone,</l>
+                     <l>Too well employ'd ever to be alone;</l>
+                     <l>He takes no thought to be obſerv'd or ſeen,</l>
+                     <l>Whil'ſt all his Acts are eccho'd from within.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Ama te neſciri &amp; pro nihilo reputari;</hi>
+                     </l>
+                     <l>Love to be unknown and nothing accounted.</l>
+                  </lg>
+               </div>
+               <div type="saying">
+                  <lg>
+                     <l>HE dares not wiſh, nor his own fate propound,</l>
+                     <l>But if GOD ſend, reads love in every wound;</l>
+                     <l>And would not loſe, for all the joys of ſenſe,</l>
+                     <l>The inward comfort of Obedience.</l>
+                  </lg>
+                  <q>Remember <hi>Abraham,</hi> the Father of all the Faithful.</q>
+               </div>
+               <div n="19" type="saying">
+                  <lg>
+                     <l>Who with their preſent State are not content,</l>
+                     <l>Oft worſer find for their juſt puniſhment.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>The Murmuring</hi> Iſraelites <hi>are a dreadful Monitor.</hi>
+                     </l>
+                     <l>
+                        <hi>Content's the Crown of Earthly Happineſs.</hi>
+                     </l>
+                  </lg>
+               </div>
+               <div n="20" type="saying">
+                  <lg>
+                     <l>OPinion is the rate of things,</l>
+                     <l>rom whence our peace doth flow;</l>
+                     <pb n="6" facs="tcp:153475:11"/>
+                     <l>I have a better fate than Kings,</l>
+                     <l>Becauſe I think it ſo.</l>
+                  </lg>
+                  <q>Animus omnia facit. <hi>The mind does all.</hi>
+                  </q>
+               </div>
+               <div n="21" type="saying">
+                  <lg>
+                     <l>WHen all the ſtormy World doth roar,</l>
+                     <l>How unconcern'd am I:</l>
+                     <l>I cannot fear to tumble lower,</l>
+                     <l>Who never would be high.</l>
+                  </lg>
+                  <q>The lowlieſt mind is ſafeſt.</q>
+               </div>
+               <div n="22" type="saying">
+                  <lg>
+                     <l>HAppy that Soul that is content alone,</l>
+                     <l>And needs no entertainment, but its own.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Nunquam minus ſolus, quam cum ſolus;</hi>
+                     </l>
+                     <l>Never leſs alone, than when alone.</l>
+                  </lg>
+               </div>
+               <div n="23" type="saying">
+                  <lg>
+                     <l>AT length this ſecret I have learn'd,</l>
+                     <l>Who will be happy muſt be unconcern'd;</l>
+                     <l>Muſt all their Comfort in their boſom wear,</l>
+                     <l>And ſeek their Treaſure, and their Power there.</l>
+                  </lg>
+                  <q>We have this Treaſure in Earthen Veſſels, <bibl>
+                        <hi>2 Cor. 4.7.</hi>
+                     </bibl>
+                  </q>
+               </div>
+               <div n="24" type="saying">
+                  <lg>
+                     <l>FLy Tales and Rumours, leſt of News</l>
+                     <l>The Inventer thou be thought,</l>
+                     <l>For Silence ſeldom hurts a man,</l>
+                     <l>But Speech much harm hath wrought.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Vir ſapit, qui pauca loquitur:</hi>
+                     </l>
+                     <l>That man is wiſe that ſpeaks little.</l>
+                  </lg>
+                  <pb n="7" facs="tcp:153475:11"/>
+               </div>
+               <div n="25" type="saying">
+                  <lg>
+                     <l>AGainſt thy Friend with force of Words,</l>
+                     <l>Strive not in any wiſe;</l>
+                     <l>Sometimes of Words (which are but Wind)</l>
+                     <l>Great Controverſies riſe.</l>
+                  </lg>
+                  <q>Beati pacifici; <hi>Bleſſed are the Peace-makers.</hi>
+                  </q>
+               </div>
+               <div n="26" type="saying">
+                  <lg>
+                     <l>WHat faults thou find'ſt in other men</l>
+                     <l>Let not be found in thee,</l>
+                     <l>Great ſhame in him that Vice reproves,</l>
+                     <l>Himſelf not to be free.</l>
+                  </lg>
+                  <q>Tis bad, when Vice corrects Sin.</q>
+               </div>
+               <div n="27" type="saying">
+                  <lg>
+                     <l>TO carp at others words, let not thy Wit be ill apply'd,</l>
+                     <l>Leſt by thine own Example taught, another thee deride.</l>
+                  </lg>
+                  <q>He that keepeth his Tongue, keepeth his Soul from troubles, <bibl>
+                        <hi>Prov. 21.23.</hi>
+                     </bibl>
+                  </q>
+               </div>
+               <div n="28" type="saying">
+                  <lg>
+                     <l>IF with a Stranger thou diſcourſe, firſt learn</l>
+                     <l>By ſtricteſt obſervation to diſcern,</l>
+                     <l>If he be wiſer than thy ſelf: if ſo,</l>
+                     <l>Be dumb, and rather chooſe by him to know;</l>
+                     <l>But if perchance thy ſelf the wiſer be,</l>
+                     <l>Then do thou ſpeak, that he may learn by thee.</l>
+                  </lg>
+                  <q>Refrain not to ſpeak, when there is an opportunity to do good, <bibl>
+                        <hi>Eccl. 4.23.</hi>
+                     </bibl>
+                  </q>
+                  <pb n="8" facs="tcp:153475:12"/>
+               </div>
+               <div n="29" type="saying">
+                  <lg>
+                     <l>SAge Counſel from thy Servants mouth</l>
+                     <l>Diſdain not to reſpect,</l>
+                     <l>Nor any man's advice, that may</l>
+                     <l>Thy proper good effect.</l>
+                  </lg>
+                  <q>Fas eſt &amp; ab hoſte doceri.</q>
+                  <q>'Tis fit to learn even of an Enemy.</q>
+               </div>
+               <div n="30" type="saying">
+                  <lg>
+                     <l>IN all thy actions have a care,</l>
+                     <l>That no unſeemlineſs appear.</l>
+                  </lg>
+                  <q>Abſtain from all appearance of Evil.</q>
+               </div>
+               <div n="31" type="saying">
+                  <lg>
+                     <l>A Thankful heart hath earn'd one favour twice:</l>
+                     <l>But he that is ungrateful wants no vice.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Si ingratum dixeris, omnia dixeris.</hi>
+                     </l>
+                     <l>Say a Man's ungrateful, and you ſay all.</l>
+                  </lg>
+               </div>
+               <div n="32" type="saying">
+                  <lg>
+                     <l>LET not Anger cauſe thee to reveal,</l>
+                     <l>What Love and Friendſhip caus'd thee to conceal.</l>
+                  </lg>
+                  <q>A Tale-bearer revealeth ſecrets: but he that ii of a faithful Spirit, concealeth a matter, <bibl>
+                        <hi>Prov. 11.13.</hi>
+                     </bibl>
+                  </q>
+               </div>
+               <div n="33" type="saying">
+                  <lg>
+                     <l>ONce reconcil'd rip not up the wrongs of former daies,</l>
+                     <l>Old Sores to rub, and Wrath to move, a wicked Mind bewrays.</l>
+                  </lg>
+                  <q>He that ruleth his Tongue ſhall live without ſtrife; and he that hateth babbling ſhall have leſs Evil, <bibl>
+                        <hi>Eccl. 19.6.</hi>
+                     </bibl>
+                  </q>
+                  <pb n="9" facs="tcp:153475:12"/>
+               </div>
+               <div n="34" type="saying">
+                  <lg>
+                     <l>BY Slanders we arrive to high Renown,</l>
+                     <l>The greateſt croſſes win the greateſt Crown.</l>
+                  </lg>
+                  <q>Many are the troubles of the Righteous, but the LORD delivers them out of all, <bibl>
+                        <hi>Pſal. 34.19.</hi>
+                     </bibl>
+                  </q>
+               </div>
+               <div n="35" type="saying">
+                  <lg>
+                     <l>TAke well what e're ſhall fall, tho' bad it be,</l>
+                     <l>Take it for good, and 'twill be ſo to thee.</l>
+                  </lg>
+                  <q>Quod ſis, eſſe velis. <hi>Will to be, what thou art.</hi>
+                  </q>
+               </div>
+               <div n="36" type="saying">
+                  <lg>
+                     <l>THat's Friendſhip, and true Love indeed,</l>
+                     <l>Which firmly bides in time of need.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Amicus certus in re incerta cernitur;</hi>
+                     </l>
+                     <l>A ſure Friend is known in a doubtful matter.</l>
+                  </lg>
+               </div>
+               <div n="37" type="saying">
+                  <lg>
+                     <l>SUre is that knot which true Religion ties;</l>
+                     <l>And Love that's rightly grounded never dies.</l>
+                  </lg>
+                  <q>Witneſs <hi>Jonathan</hi> and <hi>David.</hi>
+                  </q>
+               </div>
+               <div n="38" type="saying">
+                  <lg>
+                     <l>HE that enjoys a Patient mind,</l>
+                     <l>Can Comfort in Afflictions find.</l>
+                     <l>It gently ſweetens every Bitter Cup,</l>
+                     <l>And calms tempeſtuous ſtorms, when they are up.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>In Patience poſſeſs ye your Souls.</hi>
+                     </l>
+                     <l>Prudens qui patiens;</l>
+                     <l>
+                        <hi>He is wiſe that is patient.</hi>
+                     </l>
+                  </lg>
+               </div>
+               <div n="39" type="saying">
+                  <pb n="10" facs="tcp:153475:13"/>
+                  <lg>
+                     <l>BE well adviſ'd and wary Councel take,</l>
+                     <l>E're thou doſt any reſolution make.</l>
+                     <l>
+                        <hi>Deliberandum eſt diu, quod ſtatuendum eſt ſemel.</hi>
+                     </l>
+                     <l>Conſider long of that, which is but once to be done.</l>
+                  </lg>
+               </div>
+               <div n="40" type="saying">
+                  <lg>
+                     <l>TO gather Wealth through Fraud do not preſume,</l>
+                     <l>A little evil got doth often much conſume.</l>
+                     <l>
+                        <hi>Male parta male dilabuntur.</hi> Ill got, ill ſpent.</l>
+                  </lg>
+               </div>
+               <div n="41" type="saying">
+                  <lg>
+                     <l>SPare not, nor ſpend too much, be this thy Care,</l>
+                     <l>Spare thou to ſpend, and only ſpend to Spare:</l>
+                     <l>Who ſpends too much may want and ſo complain,</l>
+                     <l>But he ſpends beſt, that ſpares to ſpend again.</l>
+                     <l>
+                        <hi>Prodigality and Coveteouſneſs are both to be abhorr'd.</hi>
+                     </l>
+                  </lg>
+               </div>
+               <div n="42" type="saying">
+                  <lg>
+                     <l>SPare for no coſt when time ſhall ſerve,</l>
+                     <l>And cauſe require the ſame;</l>
+                     <l>For what is better ſpent than ſpar'd,</l>
+                     <l>Adds to an honeſt name.</l>
+                     <l>
+                        <hi>Fac ſumptum propere,</hi> &amp;c.</l>
+                     <l>Be not ſparing, when need requires.</l>
+                  </lg>
+               </div>
+               <div n="43" type="saying">
+                  <lg>
+                     <l>USe what thou haſt in doing good,</l>
+                     <l>But ſee thou make no waſt;</l>
+                     <l>Who vainly ſpend their own and want,</l>
+                     <l>Seek other Mens at laſt.</l>
+                     <l>
+                        <hi>Better to prevent, than repent.</hi>
+                     </l>
+                  </lg>
+                  <pb n="11" facs="tcp:153475:13"/>
+               </div>
+               <div n="44" type="saying">
+                  <lg>
+                     <l>THings needful then they cannot want,</l>
+                     <l>That cutb their vain deſires:</l>
+                     <l>And meaſure their expence with what</l>
+                     <l>Neceſſity requires.</l>
+                     <l>
+                        <hi>Natura paucis contenta.</hi>
+                     </l>
+                     <l>Nature is Content with ſew things.</l>
+                  </lg>
+               </div>
+               <div n="45" type="saying">
+                  <lg>
+                     <l>ONe ſpecial note of bleſſedneſs,</l>
+                     <l>Is riches to deny;</l>
+                     <l>Which whoſo covets to ingroſs,</l>
+                     <l>Lives alwaies beggerly.</l>
+                     <l>
+                        <hi>Avarus ſemper eget.</hi>
+                     </l>
+                     <l>A Covetous Man is alwaies in want.</l>
+                  </lg>
+               </div>
+               <div n="46" type="saying">
+                  <lg>
+                     <l>THe Worlds a ſnare, I find, unto an honeſt mind,</l>
+                     <l>And O how few there be, who from that ſnare are free!</l>
+                     <l>From which LORD ſave all thine which truſt in THEE.</l>
+                     <l>No Tongue, nor Pen, unleſs the heart be pure,</l>
+                     <l>Availeth any thing, nor can procure</l>
+                     <l>Peace to the Soul, Ah! nothing ever can,</l>
+                     <l>Without a good Life, make a happy Man;</l>
+                     <l>Then, Soul of mine, ſince this muſt needs be true,</l>
+                     <l>See that thou labour all Sin to ſubdue.</l>
+                     <l>What ſignifie good Words, unleſs they riſe</l>
+                     <l>From Love? 'tis Love alone that makes us wiſe;</l>
+                     <l>Soul, love thy GOD, let it be ſeen in this,</l>
+                     <l>Thou never <hi>Think,</hi> nor <hi>Speak,</hi> nor <hi>Do Amiſs.</hi>
+                     </l>
+                  </lg>
+               </div>
+               <div n="47" type="saying">
+                  <pb n="12" facs="tcp:153475:14"/>
+                  <head>Say, — Soul of Mine;</head>
+                  <lg>
+                     <l>HAs not thy experience prov'd,</l>
+                     <l>What ev'r thou haſt over-lov'd,</l>
+                     <l>Thou thereby haſt injur'd been,</l>
+                     <l>Haſt thou not thy error ſeen?</l>
+                     <l>Is there any thing below</l>
+                     <l>GOD himſelf, that thou canſt bow,</l>
+                     <l>Or bend thy Mind to with delight,</l>
+                     <l>And be approved in his ſight?</l>
+                     <l>Approv'd in his ſight, who is?</l>
+                     <l>That ſo fondly acts amiſs?</l>
+                     <l>Then tell me, is't not time for thee</l>
+                     <l>By experience Wiſe to be?</l>
+                     <l>What Joy or Comfort canſt thou find,</l>
+                     <l>In things uncertain as the Wind,</l>
+                     <l>No Joy, but in a prudent Mind?</l>
+                     <l>A prudent Mind can never be,</l>
+                     <l>Injurious I am ſure to thee;</l>
+                     <l>Why then, my Soul, come bid adiew,</l>
+                     <l>To all that comes within thy view:</l>
+                     <l>Seeming Comforts but not true.</l>
+                     <l>Look upon them as they are,</l>
+                     <l>Do not let them prove a Snare:</l>
+                     <l>Soul, bid all empty Joys be gone,</l>
+                     <l>And joy thou in thy GOD alone.</l>
+                     <l>Thy GOD alone the Author is</l>
+                     <l>Of everlaſting Joy and Bliſs:</l>
+                     <l>Thy GOD alone can give thee this.</l>
+                  </lg>
+               </div>
+               <div n="48" type="saying">
+                  <pb n="13" facs="tcp:153475:14"/>
+                  <lg>
+                     <l>TRoubles here attend us muſt,</l>
+                     <l>Until we return to Duſt;</l>
+                     <l>They'r intended for our good,</l>
+                     <l>Were they rightly underſtood.</l>
+                     <l>By experience this I find,</l>
+                     <l>They cannot hurt a prudent Mind;</l>
+                     <l>Then, Soul of mine, do not be</l>
+                     <l>Vext, when Troubles come on thee,</l>
+                     <l>HE that ſends them, HE can beſt</l>
+                     <l>Remove them and give eaſe, and reſt.</l>
+                     <l>Reſt thou contented with thy lot,</l>
+                     <l>Good is GODS will, is it not?</l>
+                     <l>Troubles here and exerciſe</l>
+                     <l>Are good for thee to make thee wiſe;</l>
+                     <l>Heavier they ſhall not be,</l>
+                     <l>Than thy GOD ſees good for thee.</l>
+                     <l>Good I am ſure for thee it is,</l>
+                     <l>To reckon, nothing comes amiſs:</l>
+                     <l>Be content, and thou ſhall ſee,</l>
+                     <l>Nothing comes amiſs to thee.</l>
+                  </lg>
+               </div>
+               <div n="49" type="saying">
+                  <head>Judge Hales <hi>on Changes and Troubles,</hi> Contemp. p. 380.</head>
+                  <lg>
+                     <l>PEace, way ward Soul, let not thoſe various ſtorms,</l>
+                     <l>Which hourly fill the World with freſh Alarms,</l>
+                     <l>Invade thy Peace, nor diſcompoſe that reſt,</l>
+                     <l>Which thou maiſt keep untouch'd within thy Breaſt.</l>
+                     <pb n="14" facs="tcp:153475:15"/>
+                     <l>Amidſt thoſe Whirl-winds, if thou keep but free</l>
+                     <l>Thy intercourſe betwixt thy GOD and thee;</l>
+                     <l>This Region lyes above theſe ſtorms, and know</l>
+                     <l>Thy thoughts are Earthly, and they creep too low;</l>
+                     <l>If theſe can reach thee, or acceſs can find,</l>
+                     <l>To bring, or raiſe, like tempeſts in thy mind.</l>
+                     <l>But yet in theſe diſorders ſomething lies,</l>
+                     <l>That's worth thy notice, out of which the wiſe</l>
+                     <l>May trace, and find that juſt and powerful hand,</l>
+                     <l>That ſecretly, but ſurely, doth command.</l>
+                     <l>And manage theſe diſtempers with that skill,</l>
+                     <l>That while they ſeem to croſs, they act, his Will.</l>
+                     <l>Obſerve that Silver thred, that ſteers and bends</l>
+                     <l>The worſt of all diſorders to ſuch ends,</l>
+                     <l>That ſpeak his Juſtice, Goodneſs, Providence,</l>
+                     <l>Who cloſely guides it by his Influence;</l>
+                     <l>And tho' theſe Storms be loud, yet liſten well,</l>
+                     <l>There is another Meſſage that they tell.</l>
+                     <l>This World is not thy Country, 'tis thy Way:</l>
+                     <l>Too much Contentment would invite thy ſtay</l>
+                     <l>Too long upon thy journey, make it ſtrange,</l>
+                     <l>Unwelcome news, to think upon a change.</l>
+                     <l>Whereas this tugged entertainment ſend</l>
+                     <l>Thy thoughts before thee, to thy journies end;</l>
+                     <l>Chides thy deſires homeward, and tells thee plain,</l>
+                     <l>To think of reſting here, it is but vain.</l>
+                     <l>Makes thee to ſet an equal eſtimate</l>
+                     <l>On this uncertain World, and a juſt rate</l>
+                     <l>On that to come, it bids thee wait and ſtay,</l>
+                     <l>Until thy MASTER call, ond then with joy</l>
+                     <l>To entertain it: Such a Change as this</l>
+                     <l>Renders thy loſs, thy gain; improves thy bliſs.</l>
+                  </lg>
+               </div>
+               <div type="saying">
+                  <pb n="15" facs="tcp:153475:15"/>
+                  <head>Judge <hi>Hales</hi> Contempl. p. 121.</head>
+                  <lg>
+                     <l>LET him that will aſcend the tottering Seat</l>
+                     <l>Of Courtly Grandeur, and become as great</l>
+                     <l>As are his mounting wiſhes; as for me,</l>
+                     <l>Let ſweet Repoſe and Reſt my Portion be;</l>
+                     <l>Give me ſome mean obſcure Receſs, a Sphere</l>
+                     <l>Out of the Road of Buſineſs, or the fear</l>
+                     <l>Of falling lower; where I ſweetly may</l>
+                     <l>My ſelf and dear Retirement ſtill enjoy.</l>
+                     <l>Let not my Life or Name be known unto</l>
+                     <l>The Grandees of the Times, toſt to and fro</l>
+                     <l>By Cenſures or Applauſe, but let my Age</l>
+                     <l>Slide gently by, not over-thwart, the Stage</l>
+                     <l>Of Publick Action, unheard, unſeen,</l>
+                     <l>And unconcern'd, as if I ne'r had been.</l>
+                     <l>And thus whilſt I ſhall paſs my ſilent daies</l>
+                     <l>In ſhady privacy, free from the noiſe</l>
+                     <l>And buſtles of the World; then ſhall I</l>
+                     <l>A good Old Innocent Plebeian die.</l>
+                     <l>Death is a mere Surprize, a very Snare</l>
+                     <l>To him that makes it his lifes greateſt care</l>
+                     <l>To be a Publick Pageant, known to all,</l>
+                     <l>But unacquainted with himſelf, doth fall.</l>
+                  </lg>
+               </div>
+               <div type="saying">
+                  <lg>
+                     <l>There's no ſuch thing as Pleaſure here,</l>
+                     <l>'Tis all a perfect Cheat,</l>
+                     <l>Which doth but ſhine and diſappear;</l>
+                     <l>Whoſe Charm is but Deceit:</l>
+                     <l>Th' Experienc'd Prince then reaſon had,</l>
+                     <l>Who ſaid of Pleaſure, it is mad.</l>
+                     <l>
+                        <hi>I ſaid of Laughter, it is mad, and of Mirth, what doth it. Eccl.</hi> 2.2.</l>
+                  </lg>
+               </div>
+               <div type="saying">
+                  <pb n="16" facs="tcp:153475:16"/>
+                  <head>On Man's Mortality.</head>
+                  <lg>
+                     <l>LIKE as the Damask Roſe you ſee,</l>
+                     <l>Or like the Bloſſom on the Tree,</l>
+                     <l>Or like the dainty Flower in May,</l>
+                     <l>Or like the Morning to the Day,</l>
+                     <l>Or like the Sun, or like the Shade,</l>
+                     <l>Or like the <hi>Gourd</hi> which <hi>Jonas</hi> had.</l>
+                     <l>Even ſuch is Man whoſe Thred is Spun,</l>
+                     <l>Drawn out and cut, and ſo is done.</l>
+                     <l>The Roſe withers, the Bloſſom blaſteth,</l>
+                     <l>The Flower fades, the Morning haſteth,</l>
+                     <l>The Sun ſets, the Shadow flies,</l>
+                     <l>The <hi>Gourd</hi> conſumes, and Man he dies.</l>
+                  </lg>
+                  <lg>
+                     <l>Like to the Graſs that's newly ſprung,</l>
+                     <l>Or like a Tale that's new begun,</l>
+                     <l>Or like the Bird that's here to day,</l>
+                     <l>Or like the Pearly dew of May,</l>
+                     <l>Or like an Hour, or like a Span,</l>
+                     <l>Or like the Singing of a Swan.</l>
+                     <l>Even ſuch is Man who lives by Breath,</l>
+                     <l>Is here, now there, in Life and Death:</l>
+                     <l>The Graſs withers, the Tale is ended,</l>
+                     <l>The Bird is flown, the Dew's aſcended,</l>
+                     <l>The Hour is ſhort, the Span not long,</l>
+                     <l>The Swan's near Death, Man's life is done.</l>
+                  </lg>
+                  <lg>
+                     <l>Like to the Bubble in the Brook,</l>
+                     <l>Or in a Glaſs much like a look,</l>
+                     <l>Or like the Shuttle in Weavers hand,</l>
+                     <l>Or like the Writing on the Sand,</l>
+                     <pb n="17" facs="tcp:153475:16"/>
+                     <l>Or like a Thought, or like a Dream,</l>
+                     <l>Or like the gliding of the Stream:</l>
+                     <l>Even ſuch is Man who lives by Breath,</l>
+                     <l>Is here, now there, in Life and Death.</l>
+                     <l>The Bubble's out, the Look's forgot,</l>
+                     <l>The Shuttle's flung, the Writing's blot,</l>
+                     <l>The Thought is paſt, the Dream is gone,</l>
+                     <l>The Water glides, Man's Life is done.</l>
+                  </lg>
+                  <lg>
+                     <l>Like to an Arrow from the Bow,</l>
+                     <l>Or like ſwift courſe of Watery flow,</l>
+                     <l>Or like the time 'twixt Flood and Ebb,</l>
+                     <l>Or like the Spider's tender Webb,</l>
+                     <l>Or like a Race, or like a Goal,</l>
+                     <l>Or like the dealing of a Dole:</l>
+                     <l>Even ſuch is Man, whoſe brittle State</l>
+                     <l>Is alwaies ſubject unto Fate.</l>
+                     <l>The Arrow's ſhot, the Flood ſoon ſpent,</l>
+                     <l>The Time no Time, the Webb's ſoon rent,</l>
+                     <l>The Race ſoon run, the Goal ſoon won,</l>
+                     <l>The Dole ſoon dealt, Man's life is done.</l>
+                  </lg>
+                  <lg>
+                     <l>Like to the Lightning from the Skie,</l>
+                     <l>Or like the Poſt that quick doth hie,</l>
+                     <l>Or like a Quaver in ſhort Song,</l>
+                     <l>Or like a Journy three daies long,</l>
+                     <l>Or like the Pear, or like the Plum,</l>
+                     <l>Or like the Snow when Summer's come:</l>
+                     <l>Even ſuch is Man who heaps up ſorrow,</l>
+                     <l>Lives but this day, and dies to morrow.</l>
+                     <l>The Lightning's paſt, the Poſt muſt go,</l>
+                     <l>The Song is ſhort, the Journy's ſo,</l>
+                     <pb n="18" facs="tcp:153475:17"/>
+                     <l>The Pear doth rot, the Plumb doth fall,</l>
+                     <l>The Snow diſſolves, and ſo muſt all.</l>
+                  </lg>
+                  <q>It is appointed for all men once to die; and after that the Judgment.</q>
+                  <lg>
+                     <l>
+                        <hi>Memor eſto brevis aevi:</hi>
+                     </l>
+                     <l>Be thou mindful of thy ſhort Life.</l>
+                  </lg>
+                  <lg>
+                     <l>FArewel, poor World, I muſt be gon,</l>
+                     <l>Thou art no home, no reſt for me:</l>
+                     <l>I'le take my Staff, and travel on,</l>
+                     <l>'Till I a better World may ſee.</l>
+                  </lg>
+                  <p>
+                     <hi>Now we deſire a better Country, that is an Heaven<g ref="char:EOLhyphen"/>ly, for we look for another City which hath Founda<g ref="char:EOLhyphen"/>tions, whoſe Builder and Maker is GOD.</hi>
+                  </p>
+                  <lg>
+                     <l>HElp me my GOD, O let me find</l>
+                     <l>That noble Fortitude of mind,</l>
+                     <l>Not to be ſhak'd with every puff of Wind!</l>
+                     <l>With every puff of Wind let me</l>
+                     <l>Be driven nearer unto THEE;</l>
+                     <l>Elſe, Holy GOD, How can I happy be?</l>
+                     <l>How can I happy be indeed,</l>
+                     <l>'Till joyned to that Holy Seed,</l>
+                     <l>That makes man happy when he has moſt need?</l>
+                     <l>Need, LORD, thou knows I have of THEE</l>
+                     <l>To kill the Root of Sin in me,</l>
+                     <l>LORD, let the Root of Sin conſumed be:</l>
+                     <l>Conſumed be, deſtroyed quite,</l>
+                     <l>That Spotleſs I may in THY ſight</l>
+                     <l>Appear, and THOU in me mai'ſt take delight.</l>
+                  </lg>
+               </div>
+            </div>
+            <div type="prose_sayings">
+               <pb n="19" facs="tcp:153475:17"/>
+               <head>SOME USEFUL SAYINGS IN PROSE.</head>
+               <div type="miscellaneous_sayings">
+                  <p n="1">1. THE Fear of the LORD is the firſt ſtep to be accepted of HIM, and true Wiſdom ob<g ref="char:EOLhyphen"/>taineth HIS Love.</p>
+                  <p n="2">2. Bleſſed is that Soul that heareth the LORD ſpeaking in her, and receiveth from HIS Mouth the Word of Comfort.</p>
+                  <p n="3">3. Bleſſed are thoſe Ears that hearken only to the Divine Voice, and liſten not to the Allure<g ref="char:EOLhyphen"/>ments of the World.</p>
+                  <p n="4">4. He that hath little Underſtanding, and fear<g ref="char:EOLhyphen"/>eth GOD, is better than he that is exceeding Wiſe, and tranſgreſſeth the Law of the moſt HIGH.</p>
+                  <p n="5">5. He that intends to attain to the more inward &amp; Spiritual things of Religion, muſt, with JESUS, depart from the multitude and preſs of People.</p>
+                  <p n="6">6. 'Twas Sir <hi>Henry Wotton's</hi> Motto, after all his Travels and Embaſſies, <hi>I have at length learn'd, That the greateſt Wiſdom is got by a quiet retirement.</hi>
+                  </p>
+                  <p>Let it be our care to live here, as we ought; con<g ref="char:EOLhyphen"/>tented with the Condition Providence allots us; whatever we may meet with in the way, we ſhall be Happy in the end: Which the Wiſe conſiders.</p>
+                  <pb n="20" facs="tcp:153475:18"/>
+                  <p n="7">7. Learn to overcome thy ſelf in all things, for the Love of thy CREATOR.</p>
+                  <p n="8">8. If thou ſpend the Day profitably, thou wilt have cauſe to rejoyce in the Evening.</p>
+                  <p n="9">9. Simple Obedience is to be preferred before all Worldly Wiſdom.</p>
+                  <p n="10">10. The Glory of a good Man is the Teſtimony of a good Conſcience; have That and thou wilt have inward Peace in the midſt of many troubles.</p>
+                  <p n="11">11. To do alwaies well and to have low thoughts of thy ſelf, is a ſign of an Humble Soul.</p>
+                  <p n="12">12 They that follow Senſuality, ſtain their own Conſciences and loſe the favour of GOD.</p>
+                  <p n="13">13. Withdraw thy ſelf violently from that, to which nature is viciouſly inclin'd.</p>
+                  <p n="14">14. They that avoid not ſmall faults, by little and little fall into greater.</p>
+                  <p n="15">15. They that live at liberty and eaſe, ſhall ever live in diſquiet.</p>
+                  <p n="16">16. True quietneſs of Heart is got by reſiſting our Paſſions, not by obeying them.</p>
+                  <p n="17">17. Remember alwaies thy end, and how that loſt time never returns.</p>
+                  <p n="18">18. If we engage into a large Acquaintance, and various Familiarities, we ſet open our Gates to the Invaders of moſt of our time.</p>
+                  <p n="19">19. Time fruitleſly paſſed away, will in the end cauſe an aking Heart.</p>
+                  <p n="20">20. Defile not thy Mouth with Swearing; nei<g ref="char:EOLhyphen"/>ther uſe thy ſelf to the Naming of the <hi>Holy</hi> ONE.</p>
+                  <p n="21">21. Let the Name of GOD be ſparing in your Mouth, but abundantly in your Heart.</p>
+                  <pb n="21" facs="tcp:153475:18"/>
+                  <p n="22">22. The Jews of Old accounted the Name JEHOVAH ſo Sacred, that they durſt not ut<g ref="char:EOLhyphen"/>ter it; the High Prieſt alone, and that in the Tem<g ref="char:EOLhyphen"/>ple only, but once in the Year at their Solemn Feaſt, while he bleſſed the People, might have leave to mention it, for others it was Death, <hi>Buxt. Lex.</hi>
+                  </p>
+                  <p n="23">23. It is a mark of ſolly and ill nature to hate reproof.</p>
+                  <p n="24">24. Sin and Sorrow are unſeparable Compani<g ref="char:EOLhyphen"/>ons, thou canſt not let in the one, and ſhut out the other; he that ſwims in Sin, muſt ſink in Sorrow.</p>
+                  <p n="25">25. Corrupt Examples may ſway with weak minds, but the wiſe in heart will regard and con<g ref="char:EOLhyphen"/>ſider their own Duty.</p>
+                  <p n="26">26. Oppoſe no Man willfully, neither follow any in evil Courſes.</p>
+                  <p n="27">27. The clean Soul of a Chriſtian is the Houſe of GOD, and alſo the Houſe of Prayer, whoſe Body is his Temple.</p>
+                  <p n="28">28. There are ſome that Pray often, yet are not heard to ſpeak much. There are many that make long Prayers, yet Pray not at all—acceptably.</p>
+                  <p n="29">29. Prayer is a more Spiritual and Secret thing in the Sanctified, than is underſtood by moſt.</p>
+                  <p n="30">30. Religion (however pull'd ſeveral waies) is of it ſelf a quiet and ſtrifeleſs thing; Holy indeed, but Harmleſs, and Divine: yet ſtill ſhining forth in much Plainneſs and Simplicity. Be you of that Religion which gives Glory to GOD on High, on Earth Peace, and Good-will towards Men.</p>
+                  <p n="31">31. True Religion is not to fill Heads with Notions and Opinions, but to Sow in the mind
+<pb n="22" facs="tcp:153475:19"/>the Seed of Virtue, to direct how to Govern Paſſions, and to deſtroy ſelf-will.</p>
+                  <p n="32">32. Virtue and Goodneſs ought to be owned in all Parties and Opinions, and if theſe were practiſed it would reconcile all Men to each o<g ref="char:EOLhyphen"/>ther.</p>
+                  <p n="33">33. Obſtinacy is an Advantage to our Ene<g ref="char:EOLhyphen"/>mies, a Trouble to our Friends, and the aſſured overthrow of our Selves.</p>
+                  <p n="34">34. So gracious is Providence, that every Man has a Light ſet up within himſelf for a Guide.</p>
+                  <p n="35">35. Cordially eſpouſe all Virtue, conſtantly de<g ref="char:EOLhyphen"/>cline and hate all Vice.</p>
+                  <p n="36">36. To be humble to Superiors, is Duty; to Equals Civility; to Inferiors Courteſie; to all Safety.</p>
+                  <p n="37">37. It is to be Obſerv'd, that the Poor Man ſings at his Plow, while the Rich Man frets in his Palace: This ſhews, that 'tis the mind not the for<g ref="char:EOLhyphen"/>tune that makes us happy.</p>
+                  <p n="38">38. Art thou deſirous of a Kingdom, ſaies the Philoſopher, I will preſently ſhew thee one: <hi>Rule wiſely over thy Self.</hi>
+                  </p>
+                  <p n="39">39. The Glory of the Aged is their Experi<g ref="char:EOLhyphen"/>tence and their Wiſdom, the Glory of a young Man is his Modeſty and Submiſſion.</p>
+                  <p n="40">40. He that is a Companion of Riotous Men, ſhameth his Father and diſhonoureth his Mo<g ref="char:EOLhyphen"/>her.</p>
+                  <p n="41">41. 'Tis not for young Men to drink Wine, nor for lovers of Virtue to be Drinkers of ſtrong Drink.</p>
+                  <p n="42">42. Be not a Companion with Wine bibbers, nor with Riotous eaters of Fleſh, <hi>Prov.</hi> 23.20.</p>
+                  <pb n="23" facs="tcp:153475:19"/>
+                  <p n="43">43. He that will be laviſh in his Superfluities, will afterwards find himſelf unavoidably ſtraitned in his neceſſities.</p>
+                  <p n="44">44. Conſcience once embaſed, the Heart once polluted by vicious Courſes, is not eaſily recovered to the true Fear of the LORD.</p>
+                  <p n="45">45. Youth ſhould be a Pattern for Virtue, not a Priviledg for Vice: Therefore let thy Virtues be Grave, whilſt thy Years are Green.</p>
+                  <p n="46">46. Be meek and courteous to all, yet chooſe only the Virtuous and Harmleſs for your Com<g ref="char:EOLhyphen"/>panions. The <hi>Dove</hi> flocks not with <hi>Ravens.</hi>
+                  </p>
+                  <p n="47">47. Let thy Speech be ſober and ſeldom: To know how to be ſilent, is a great advantage to ſpeak well; and he that knows not how to do the one, knows not the other.</p>
+                  <p n="48">48. Who heareth much and ſpeaketh little, may beſt diſcern Falſhood from Truth.</p>
+                  <p n="49">49. We ought alwaies to keep a Bridle at our Mouths, even in Religious and Holy Occaſions; becauſe it is hard to fall into arguing, without of<g ref="char:EOLhyphen"/>fence to GOD and our Neighbour.</p>
+                  <p n="50">50. Let thy Speech be ſhort, comprehending much in few Words. For long Diſcourſes, Am<g ref="char:EOLhyphen"/>plifications, and Repetitions, are a ſign of Oſten<g ref="char:EOLhyphen"/>tation in the Speaker, tedious and irkſom, and of no real good, to the Hearer. Even in a good cauſe, or on a good ſubject, a man may ſay too much.</p>
+                  <p n="51">51. The beginning of ſtrife, is as when one let<g ref="char:EOLhyphen"/>teth out Water; therefore leave off Contention before it be medled with, <hi>Prov.</hi> 17.4.</p>
+                  <pb n="24" facs="tcp:153475:20"/>
+                  <p n="52">52. Silence is a Guard of the Conſcience, a Bri<g ref="char:EOLhyphen"/>dle from Inſolence, and a ſign of Innocence, and preſerves from many Evils.</p>
+                  <p n="53">53. They that turn an others words to a worſe end than was intended, ſhews an evil mind; and are far from doing therein as they would be done unto.</p>
+                  <p n="54">54. There is more deſireableneſs in Meekneſs and Innocency, than in all the Mountains of Prey or Self exaltation.</p>
+                  <p n="55">55. A virtuous Man is more Patient in Adver<g ref="char:EOLhyphen"/>ſity, than a Vicious in Proſperity.</p>
+                  <p n="56">56. I will learn contentment by conſidering o<g ref="char:EOLhyphen"/>thers wants and my own enjoyments, and not learn diſcontent from others enjoyments and my own wants.</p>
+                  <p n="57">57. A Rich Worldling is rather to be pitied for what he wants, than envied for what he has.</p>
+                  <p n="58">58. Unſatiable deſires in Temporals, make a man poor in Spirituals.</p>
+                  <p n="59">59. How little ſoever the thing be, if it be in<g ref="char:EOLhyphen"/>ordinately loved, it defileth the Soul, and hindreth the injoyment of the chiefeſt Good.</p>
+                  <p n="60">60. There is nothing in the World conduceth more to the Compoſure and Tranquility of the Mind, than the ſerenity and clearneſs of the Con<g ref="char:EOLhyphen"/>ſcience; keep but That ſafe and untainted, the Mind will enjoy a Calm and Tranquility in the midſt of all the Storms of the World. And altho the Waves beat, and the Sea works, and the Winds blow; the Mind that hath a quiet and clear Con<g ref="char:EOLhyphen"/>ſcience within, will be as ſtable and as ſafe from Perturbation as a Rock in the midſt of a tempeſtu<g ref="char:EOLhyphen"/>ous
+<pb n="25" facs="tcp:153475:20"/>Sea, and will be a <hi>Goſhen</hi> too, and within it ſelf, when the reſt of the World without is like an <hi>Egypt</hi> for Confuſion and Darkneſs, <hi>Judge Hales</hi> Contempl. 373.</p>
+                  <p n="61">61. Whatever thou doſt hazard or loſe, keep the Integrity of thy Conſcience, both before troubles come and under them; it is a Jewel will make thee Rich in the midſt of Poverty, a Sun that will give thee Light in the midſt of Darkneſs, a Fortreſs that will keep thee ſafe in the greateſt Dan<g ref="char:EOLhyphen"/>ger, and that is never to be taken from thee, un<g ref="char:EOLhyphen"/>leſs thou thy ſelf betray it and deliver it up. p. 374.</p>
+                  <p n="62">62. Many words do not ſatisfie the Soul, but a good Life comforteth the Mind, and a pure Con<g ref="char:EOLhyphen"/>ſcience giveth great aſſurance in the ſight of GOD.</p>
+                  <p n="63">63. He that keeps the Law of GOD and ab<g ref="char:EOLhyphen"/>ſtains from the impurity of the World, that is, the good Man, the juſt Liver; he is the Apoſtles true Jew and Circumſition.</p>
+                  <p n="64">64. The Curſe of the LORD is in the Houſe of the Wicked, but HE bleſſeth the Habitation of the Juſt.</p>
+                  <p n="65">65. Whoſo feareth the LORD, it ſhall go well with him at the laſt; and he ſhall find fa<g ref="char:EOLhyphen"/>vour in the day of his Death.</p>
+                  <p n="66">66. If I chooſe the LORD for my Portion, then Mercy and Goodneſs ſhall follow me whilſt I live, and Glory and everlaſting happineſs ſhall be my Portion when I die.</p>
+                  <p n="67">67. Let reaſon go before every Enterpriſe: And Counſel before every Action.</p>
+                  <p n="68">68. Tho a good Life hath but few daies, yet a good Name endures for ever.</p>
+                  <pb n="26" facs="tcp:153475:21"/>
+                  <p n="69">69. What are the delights of the World to the Peace of my Conſcience? Rather let me be Poor with a good Heart, than rich with an evil Mind.</p>
+                  <p n="70">70. How can Pleaſures content me, whilſt the Sting of them Poyſon me?</p>
+                  <p n="71">71. Never think thoſe true hearted Friends to thee, that are falſe to their own Conſciences.</p>
+                  <p n="72">72. A froward Man ſoweth ſtrife: and a Whiſ<g ref="char:EOLhyphen"/>perer ſeperateth very Friends.</p>
+                  <p n="73">73. They who ſuffer their own Wills and Luſts to Rule, not only oppreſs others thereby, but ſtifle and crucifie the Juſt and Faithful witneſs in themſelves.</p>
+                  <p n="74">74. There are no ſuch Enemies without, as unruly Luſts and Paſſions within, therefore la<g ref="char:EOLhyphen"/>bour to overcome them all.</p>
+                  <p n="75">75. Humility and Abſtinence keeps the Body and Mind, in much evenneſs and tranquility; but Pride and Fulneſs are Pernitious to both.</p>
+                  <p n="76">76. Afflictions are ſent for the good, even of good Men; and it is their fault if they have not that effect.</p>
+                  <p n="77">77. Let thy Afflictions make thee humble, and thy deliverance therefrom the more increaſe thy humility.</p>
+                  <p n="78">78. Follow Peace and Holineſs with all Men, not only with your Friends, but with your very Enemies; that you may be the Children of the HIGHEST, and of a good example to all Man<g ref="char:EOLhyphen"/>kind.</p>
+                  <p n="79">79. Happy is he that ſhall be exe<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>iſ'd in theſe things, and he that layeth them up in his Heart ſhall become Wiſe.</p>
+               </div>
+               <div type="part">
+                  <pb n="27" facs="tcp:153475:21"/>
+                  <head>Something touching Exceſs, by Judge <hi>Hales.</hi>
+                  </head>
+                  <p>THe great folly of Mankind, is the un<g ref="char:EOLhyphen"/>rulineſs and want of Government of the Senſual Appetite or Luſts: Hence grows Intemperance and Exceſs in Eating and Drinking, unlawful and exorbitant Luſts: and theſe exorbitances break out into very fooliſh, vain, and imprudent actions, ex<g ref="char:EOLhyphen"/>hauſt the Eſtate, waſt and conſume the Health; embaſe and impoveriſh the mind; deſtroys the Reputation, and fills the World with much of that folly and diſorder that is every where obſervable.</p>
+                  <p>It was alwaies my care to uſe the Crea<g ref="char:EOLhyphen"/>tures with Temperance and Moderation;—Not to Luxury and Exceſs, to make provi<g ref="char:EOLhyphen"/>ſion for my Luſts, with Vain-glory or Oſten<g ref="char:EOLhyphen"/>tation, but for the convenient ſupport of my Nature and Condition;—I looked not upon the Wine when it gave its colour in the Cup, nor gave my ſelf over, either to Exceſs or Curioſity in Meats or Drinks; I checked my ſelf therein,—And ſtill remembred I had the Creatures under an account, and was ever careful to avoid exceſs or intemperance, be<g ref="char:EOLhyphen"/>cauſe every exceſſive Cup or Meal was in dan<g ref="char:EOLhyphen"/>ger to leave me in arrear to my LORD.</p>
+               </div>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb n="28" facs="tcp:153475:22"/>
+            <head>A POSTSCRIPT, by <hi>J. P.</hi>
+            </head>
+            <p>THOU ſhalt well conſider in thine Heart, and remember all the Way that I have hitherto led thee, to try thee, and to prove thee, that thou maiſt in the following part of thy Life, know and ac<g ref="char:EOLhyphen"/>knowledg the GOD of all thy Mercies. <hi>Oct.</hi> 13. 1687.</p>
+            <p>
+               <hi>O LORD! Cleanſe THO<g ref="char:V">Ʋ</g> me, and I ſhall be clean;</hi> Purge <hi>and</hi> Purifie <hi>THO<g ref="char:V">Ʋ</g> me, that I may be as white as Snow, without ſpot or wrinkle, or any ſuch thing: This, this, is that my Soul hath long longed for; and now beg of THEE that it may be fully accompliſhed to THY Honour and Glory, henceforth even for ever and ever. Oh! hear, defer not I beſeech THEE, to forgive whatever has been amiſs in me; even for THY Great Names ſake; for THY Suffering</hi> Seeds <hi>ſake; and THY</hi> End<g ref="char:EOLhyphen"/>leſs, Infinite, <hi>and</hi> Incomprehenſible Mercies <hi>Sake, which hath ever been extended towards all who have put their whole truſt and confidence in THEE, as I do at this Day: Glory, Glory, for ever be to THEE, OTHO<g ref="char:V">Ʋ</g> moſt</hi> HIGH! <hi>who wert, who art, and who art to come! GOD Bleſſed for ever, and for evermore!</hi>
+            </p>
+            <closer>Amen. <hi>and</hi> Amen. <dateline>
+                  <date>
+                     <hi>Octob.</hi> 19. 1687.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb n="29" facs="tcp:153475:22"/>
+            <head>This following was Writ the ſame day of the fore<g ref="char:EOLhyphen"/>going month, and ſeveral Copies ſent to my Friends and Acquaintance in and about <hi>Lon<g ref="char:EOLhyphen"/>don;</hi> and is here Printed for the Sake and Service of all concern'd therein.</head>
+            <opener>
+               <salute>Dear People,</salute>
+            </opener>
+            <p>YOu, who are from your Habitations, I am at this Moment, in ſuffering for you; and am made, in that Love that is not of this World, to in<g ref="char:EOLhyphen"/>treat and beſeech you who have in any meaſure taſt<g ref="char:EOLhyphen"/>ed of the Good <hi>Word</hi> of GOD; to return every Individual of you to your own Homes, Tents, and Tabernacles: and there to wait in the ſtil<g ref="char:EOLhyphen"/>neſs and ſilence of all fleſh, for the Reſurrection of that <hi>Life,</hi> and <hi>Power,</hi> which at preſent ſeems to lye Dead; and as it were even Buried in moſt. Oh! reject not, withſtand not, but be freely given up to the Counſel and Advice herein given you, then will you reap the Benefit, and I the Reward of this my Love and Faithfulneſs towards you all.</p>
+            <closer>
+               <signed>J. P.</signed>
+            </closer>
+            <epigraph>
+               <q>Chooſe you whom ye will ſerve: But as for me and mine, we are bound and ingaged to ſerve the LORD, the great GOD only.</q>
+            </epigraph>
+         </div>
+         <div type="blank_pages">
+            <p>
+               <pb facs="tcp:153475:23"/>
+               <pb facs="tcp:153475:23"/>
+               <pb facs="tcp:153475:24"/>
+               <pb facs="tcp:153475:24"/>
+               <pb facs="tcp:153475:25"/>
+               <pb facs="tcp:153475:25"/>
+               <pb facs="tcp:153475:26"/>
+               <pb facs="tcp:153475:26"/>
+               <pb facs="tcp:153475:27"/>
+               <pb facs="tcp:153475:27"/>
+               <pb facs="tcp:153475:28"/>
+               <pb facs="tcp:153475:28"/>
+               <pb facs="tcp:153475:29"/>
+               <pb facs="tcp:153475:29"/>
+               <pb facs="tcp:153475:30"/>
+               <pb facs="tcp:153475:30"/>
+               <pb facs="tcp:153475:31"/>
+               <pb facs="tcp:153475:31"/>
+               <pb facs="tcp:153475:32"/>
+               <pb facs="tcp:153475:32"/>
+               <pb facs="tcp:153475:33"/>
+               <pb facs="tcp:153475:33"/>
+               <pb facs="tcp:153475:34"/>
+               <pb facs="tcp:153475:34"/>
+               <pb facs="tcp:153475:35"/>
+               <pb facs="tcp:153475:35"/>
+               <pb facs="tcp:153475:36"/>
+               <pb facs="tcp:153475:36"/>
+               <pb facs="tcp:153475:37"/>
+               <pb facs="tcp:153475:37"/>
+               <pb facs="tcp:153475:38"/>
+               <pb facs="tcp:153475:38"/>
+               <pb facs="tcp:153475:39"/>
+               <pb facs="tcp:153475:39"/>
+               <pb facs="tcp:153475:40"/>
+               <pb facs="tcp:153475:40"/>
+               <pb facs="tcp:153475:41"/>
+               <pb facs="tcp:153475:41"/>
+               <pb facs="tcp:153475:42"/>
+               <pb facs="tcp:153475:42"/>
+               <pb facs="tcp:153475:43"/>
+               <pb facs="tcp:153475:43"/>
+               <pb facs="tcp:153475:44"/>
+               <pb facs="tcp:153475:44"/>
+               <pb facs="tcp:153475:45"/>
+               <pb facs="tcp:153475:45"/>
+               <pb facs="tcp:153475:46"/>
+               <pb facs="tcp:153475:46"/>
+               <pb facs="tcp:153475:47"/>
+               <pb facs="tcp:153475:47"/>
+               <pb facs="tcp:153475:48"/>
+               <pb facs="tcp:153475:48" rendition="simple:additions"/>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
